@@ -1,0 +1,13 @@
+[1mdiff --git a/src/index.html b/src/index.html[m
+[1mindex e8ce1e7..a016fa6 100644[m
+[1m--- a/src/index.html[m
+[1m+++ b/src/index.html[m
+[36m@@ -21,7 +21,7 @@[m
+             src="https://media.istockphoto.com/id/2183945464/photo/cross-shape-or-letter-x.jpg?s=1024x1024&w=is&k=20&c=ERStAaW2ZTWotKsucwN-1ehRHpus1Vff9fnOYIJVQ6A=">[m
+     </div>[m
+     <img id="banner" src="banner.jpg" alt="banner" height="250">[m
+[31m-    <h1>WELCOME TO JOVIAN</h1>[m
+[32m+[m[32m    <h1>ABOUT JOVIAN</h1>[m[41m[m
+     <div id="about">[m
+         <div id="description">[m
+             <p style="margin-top:0;">[m
